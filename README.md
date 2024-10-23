@@ -37,6 +37,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 To view and edit the resume, you can use the CodeSwing extension in Visual Studio Code. Simply open the project in Visual Studio Code, and CodeSwing will provide a live preview of the resume.
 
+## Live Demo
+
+You can view the live demo of my digital resume [here](https://omagr2004.github.io/resume/).
+
 ## Contact
 
 For any inquiries or further information, please contact me at [rahulgupta92015@gmail.com].
