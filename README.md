@@ -39,4 +39,4 @@ To view and edit the resume, you can use the CodeSwing extension in Visual Studi
 
 ## Contact
 
-For any inquiries or further information, please contact me at [your-email@example.com].
+For any inquiries or further information, please contact me at [rahulgupta92015@gmail.com].
