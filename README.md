@@ -18,12 +18,12 @@ This is my digital resume, showcasing my skills, projects, and experience. The r
 
 ## Academic Projects
 
-### AI Music App (2023)
+### AI Music App 
 Developed a Flutter-based AI music application that generates music based on user input. Implemented machine learning algorithms to analyze and create music patterns.
 - Utilized Flutter for cross-platform development
 - Implemented machine learning models for music generation
 
-### Online Quiz Website (2022)
+### Online Quiz Website 
 Collaboratively developed a website for online quizzes using HTML, CSS, and Django. Worked primarily on the front-end and contributed to some back-end tasks.
 - Designed and developed the front-end using HTML and CSS
 - Implemented back-end functionality with Django
